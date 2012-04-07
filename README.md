@@ -2,9 +2,9 @@
 
 Various standard semi-static information that people often need in a projectexpressed directly in Clojure. Things like:
 
-+ISO codes 
-+Coordinates of various postal codes
-+???
+        ISO codes 
+        Coordinates of various postal codes
+        ???
 
 ## Usage
 
