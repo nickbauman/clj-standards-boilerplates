@@ -4,7 +4,7 @@ Various standard semi-static information that people often need in a projectexpr
 
         ISO codes 
         Coordinates of various postal codes
-        A parser for NASDAQ's daily dump (a static file of this blows up the compiler: it's too big)
+        A parser for NASDAQ's daily dump for NYSE, NASDAQ and AMEX exchanges. (a static file of this stuff blows breaks hard limits in the JVM for code size)
         ???
 
 ## Usage
